@@ -1,7 +1,7 @@
 ### Hi 👋 I am Dheeman Pati
 
 
-- 🔭 I’m a fullstack developer
+- 🔭 Way to become a fullstack developer
 - 🌱 I’m currently learning MERN Stack
 - 🤔 I’m looking for help with Youtube and Stack overflow.
 - 💬 Ask me about Spring boot or React or any tech related stuff.
@@ -12,8 +12,8 @@
 ### Sparetime:  🦜
 
 -   🎬  I like to visit new places, cinema and anything cultural.
--   🚴  You can find me biking on a bike, drinking a Chai and walking in nature.
--   🌷  Enjoying collagelife and learning new things related to technology and webdevelopment is what keeps me alive and kicking.
+-   🚴  You can find me biking on a bike, drinking Chai and walking in nature.
+-   🌷  Enjoying college life and learning new things related to technology and webdevelopment is what keeps me alive and kicking.
 
 <hr/>
 Languages and Tools:🧰
