@@ -40,7 +40,7 @@ Languages and Tools:🧰
 My Stats: 👨‍🎓 
 
 
-<div display="flex" justify-content="space-between">
+<div display="flex" align="center" justify-content="space-between">
 <img src="https://github-readme-stats.vercel.app/api?username=sayan99614&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 <div/>
 
